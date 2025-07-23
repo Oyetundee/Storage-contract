@@ -1,2 +1,5 @@
 Foundry_Sepolia_Address=0x36B80c1f0cf2Ae7086cF58CC86f740bE986ADa71
 Hardhat_Sepolia_Address=0x4f5796beBB3fC9f72133eDDD2BBfF4c9ec1a4fDA
+
+## Hardhat core:
+    * 0xC96ca739947b52aE4812c5728cc6327AE22956fb
